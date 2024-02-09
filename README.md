@@ -1,4 +1,4 @@
-Mastering C & Data Structures
+# Mastering C & Data Structures
 
 I'm an aspiring programmer who has completed the C & Data Structures course by Neso Academy. 
 This repository showcases my solutions to various programming exercises and projects from the course.
