@@ -1,7 +1,7 @@
 # Mastering C & Data Structures
 
 I'm an aspiring programmer who has completed the C & Data Structures course by Neso Academy. 
-This repository showcases my solutions to various programming exercises and projects from the course.
+This repository showcases my solutions to various programming exercises and projects from the course / codewars.
 
 During this learning journey, I tackled problems like sorting algorithms, dynamic memory allocation, and graph traversal.
 Implementing these data structures in C helped me deepen my understanding of their efficiency and applications.
